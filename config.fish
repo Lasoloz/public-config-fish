@@ -5,7 +5,7 @@ end
 
 # Configuring fish colors:
 set -g fish_color_command '#c397d8'
-set -g fish_color_param '#c5c8c6'
+set -g fish_color_param '#e7cbf5'
 
 # Configuring tide:
 set -g tide_prompt_add_newline_before true
